@@ -1,0 +1,89 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# ----------------------------
+# Environment Variables
+# ----------------------------
+.env
+.env.*
+!.env.example
+
+# ----------------------------
+# Streamlit
+# ----------------------------
+.streamlit/secrets.toml
+
+# Optional: Ignore local Streamlit config
+# .streamlit/config.toml
+
+# ----------------------------
+# Jupyter Notebook
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Build / Distribution
+# ----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ----------------------------
+# Test & Coverage
+# ----------------------------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# ----------------------------
+# Type Checkers
+# ----------------------------
+.mypy_cache/
+.pyre/
+.pytype/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# IDEs
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Misc
+# ----------------------------
+.cache/
+
+
+// local files
+received_files
+*.mp4
