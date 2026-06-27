@@ -38,6 +38,12 @@ streamlit run app.py
 
 Then open the local URL shown in the terminal.
 
+## Live Deployment
+
+You can use the hosted version of this app here:
+
+[https://p2p-transfer.streamlit.app/](https://p2p-transfer.streamlit.app/)
+
 ## Usage
 
 ### Send a file
